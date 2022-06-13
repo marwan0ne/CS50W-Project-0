@@ -1,0 +1,112 @@
+.fonts, #ADS, .toplabel, .bottomlabels, #advanceSearchButton {
+  font-family: arial, sans-serif;
+}
+
+div a {
+  float: right;
+  text-decoration: none;
+  margin: 5px;
+  color: black;
+}
+
+div a:hover {
+  text-decoration: underline;
+}
+
+.form {
+  text-align: center;
+  padding: 200px;
+  margin: 5px;
+}
+
+.button {
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  font-family: arial,sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  min-width: 54px;
+  text-align: center;
+}
+
+.button:hover, #searchbar:hover {
+  -webkit-box-shadow: 5px 5px 2.5px #D3D3D3;
+          box-shadow: 5px 5px 2.5px #D3D3D3;
+}
+
+#searchbar {
+  background-image: url("https://www.freeiconspng.com/thumbs/search-icon-png/search-icon-png-2.png");
+  background-color: white;
+  background-size: 14px;
+  background-repeat: no-repeat;
+  background-position-x: 8px;
+  background-position-y: 10px;
+  border: 2px solid #D3D3D3;
+  border-radius: 20px;
+  height: 34px;
+  width: 527px;
+  margin: 15px;
+  font-size: 16px;
+  color: black;
+  outline: none;
+  text-indent: 25px;
+}
+
+#imagelogo {
+  color: #4285f4;
+  font-size: 15px;
+  position: relative;
+  left: -60px;
+  top: -12px;
+}
+
+#ADS {
+  color: #d93025;
+  margin: 25px 35px;
+  font-size: 20px;
+}
+
+.googlelogo {
+  margin: 20px;
+}
+
+#head {
+  border-bottom: 1px solid #D3D3D3;
+}
+
+.inputbar {
+  width: 428.288PX;
+  height: 25px;
+  margin: 10px;
+}
+
+.advanceform {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.toplabel {
+  font-size: 15px;
+}
+
+.bottomlabels {
+  font-size: 13px;
+}
+
+#advanceSearchButton {
+  background-color: #4d90fe;
+  color: white;
+  width: 122px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#advanceSearchButton:hover {
+  background-color: #4d50fe;
+}
+/*# sourceMappingURL=styles.css.map */
